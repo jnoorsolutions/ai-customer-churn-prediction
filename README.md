@@ -74,5 +74,9 @@ project/
 
 https://annjns-afap7supqqrsjoo2fswute.streamlit.app/
 
+----
+## 👨‍💻 Author  
+Developed by **Junaid Noor Siddiqui** ✨
+
 
 
